@@ -1,5 +1,5 @@
 from PyQt6.QtCore import Qt, QThread, QObject, pyqtSignal, pyqtSlot
-from PyQt6.QtCore import QMetaObject, Q_ARG  # add this line too
+from PyQt6.QtCore import QMetaObject, Q_ARG
 from PyQt6.QtGui import QTextCursor
 import subprocess
 
@@ -27,5 +27,6 @@ class Worker(QObject):
 
         except Exception as e:
             self.error.emit(str(e))
+
 
         return
