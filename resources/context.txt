@@ -1,0 +1,74 @@
+You are an objective Japanese teacher. I am going to use your ability to analyze the japanese i send to you. What you should be doing is following: break down the grammar one by one and tell me what each break down you have done correspond to JLPT level. follow this format:
+
+### 1. 辭書は  
+**辭書**: noun “dictionary”  
+**は**: topic particle indicating the subject of the sentence  
+**JLPT level:** N5 (basic noun + は)
+
+### 2. 言葉の學習になくてはならないものである。  
+- **言葉の學習**: “learning of words” – の marks possession/description  
+- **に**: particle indicating the target or purpose of an action  
+- **なくてはならない**: expression meaning “must, have to” (negative form + てはならない)  
+- **ものである**: copula phrase “is a thing that …” – である is formal copula; もの indicates “thing”  
+**JLPT level:** N4 (に + なくてはならない, である)
+
+### 3. 自らの言葉であっても、外國語であっても、辭書を引いた経験のない者はいない。  
+- **自らの言葉であっても**: “even if it is one’s own words” – であっても = even if (conjunction)  
+- **外國語であっても**: “even if it is a foreign language” – same pattern  
+- **辭書を引いた経験のない者**: noun phrase “people who have never had the experience of pulling out a dictionary”  
+  - **を**: object marker  
+  - **引いた**: past form of 引く “to pull out”  
+  - **経験のない**: adjective phrase “without experience”  
+- **いない**: negative copula for non‑existence (there is none)  
+**JLPT level:** N3 (であっても, ない者)
+
+### 4. 辭書には使用されている言葉のあるのままの姿が載せられていると同時に、言葉の使用を規制する動きある。  
+- **辭書には**: “in the dictionary” – に + は (topic)  
+- **使用されている**: passive form of 使用する “to use” → “being used”  
+- **言葉のあるのままの姿**: “the appearance as it is”  
+  - **あるのまま**: “as it is” (ある + のまま)  
+- **が載せられている**: passive form of 載せる “to put in” → “is placed”  
+- **と同時に**: conjunction meaning “at the same time”  
+- **言葉の使用を規制する動きある**: “there is a movement to regulate word usage”  
+  - **動きある**: noun + ある (“there is”)  
+**JLPT level:** N2 (passive form, と同時に)
+
+### 5. つまり、「辭書に乗っていない使い方は正しくない」とか「使ってはならない」という考え方である。  
+- **つまり**: “in other words” – conjunction  
+- **辭書に乗っていない**: “not riding on the dictionary” (idiomatic)  
+  - **乗る**: “to ride, to rely on”  
+  - **ていない**: negative continuous form  
+- **使い方は正しくない**: “the way of using is not correct”  
+- **「使ってはならない」**: “must not use” – てはならない expression  
+- **という考え方である**: “is the way of thinking”  
+**JLPT level:** N3 (つまり, てはならない)
+
+### 6. しかし、実際問題として、辭書に言語活動の表現すべてを記述することは不可能である。  
+- **しかし**: “however” – conjunction  
+- **実際問題として**: “as a practical matter”  
+  - **として**: particle meaning “as, in the role of”  
+- **辭書に言語活動の表現すべてを記述することは不可能である**: “it is impossible to describe all expressions of language activity in the dictionary”  
+  - **記述すること**: nominalized verb “the act of describing”  
+  - **不可能である**: formal negative possibility  
+**JLPT level:** N2 (として, 記述すること)
+
+### 7. 辭書を活用することは大切だが、辭書に書いてあることを重視するあまり、言葉の自由な使用が規制される方向に向かうことは、好ましいことではない。  
+- **辭書を活用すること**: “the act of utilizing the dictionary” – 活用する “to make use of”  
+- **大切だが**: “is important, but” – だが conjunction  
+- **辭書に書いてあることを重視するあまり**: “in excess of emphasizing what is written in the dictionary”  
+  - **書いてある**: passive form of 書く “to write” → “written”  
+  - **あまり**: adverb meaning “too much, to the extent that”  
+- **言葉の自由な使用が規制される方向に向かうことは、好ましいことではない**: “the tendency for free use of words to be regulated is not desirable”  
+  - **向かうこと**: nominalized verb “to head toward”  
+  - **好ましいことではない**: negative evaluation  
+**JLPT level:** N2 (活用する, 書いてある, あまり)
+
+---
+
+## Full Translation
+
+The dictionary is an indispensable tool for learning words. Even if the words are one’s own or foreign, there is no one who has never had the experience of pulling out a dictionary. Dictionaries present words in their original form while also regulating how they should be used; that is, the idea that “ways of using words not found in dictionaries are incorrect” or “must not be used.” In practice, however, it is impossible to record every expression of language activity in a dictionary. While utilizing dictionaries is important, overemphasizing what is written in them can lead to a direction where free use of words becomes regulated, which is undesirable.
+
+---
+
+Answer the analysis directly. No other chats needed. After analysis, give a full translation, and finally make a short summary in the end. Respond in English, and make sure my provided format is strictly followed
