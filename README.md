@@ -11,3 +11,4 @@ pulling models directly in the app
 supports screenshot text recognition (screenshot implemented)  
 RAG implementation on better JLPT level recognition  
 tracking frequency of grammar encountering  
+make my project user friendly :D
